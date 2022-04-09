@@ -1,3 +1,3 @@
-# Ejercicios-Efsi
+# Ejercicios EFSI
 
-Ejercicos rápidos de la clase de EFSI
+Completos: 1, 2 y 3 

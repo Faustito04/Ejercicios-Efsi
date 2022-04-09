@@ -1,0 +1,23 @@
+{
+  "name": "ort_test2",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faustito04/ORT_test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faustito04/ORT_test2/issues"
+  },
+  "homepage": "https://github.com/Faustito04/ORT_test2#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
+}
