@@ -3,7 +3,7 @@ Duplicar el array anterior y aplicarle la función raíz a todos los elementos, 
 [{original: 9, modificado: 3}]
 */
 
-let arrayOriginal = [4, -3, 14, 25, 36, 49, 64, 81, 100, 121];
+let arrayOriginal = [4, -3, 14, 25, 0, 49, 64, 81, 100, 121];
 const result = [];
 
 arrayOriginal = arrayOriginal.concat(arrayOriginal)
@@ -16,7 +16,7 @@ for(let i = 0; i < arrayOriginal.length; i++){
         result.push({
             original: arrayOriginal[i],
             modificado: rounded,
-        });
+        }); 
     }
 }
 
